@@ -1,0 +1,8 @@
+M:\Simplilearn\mphasis\day2\switchprogram\switchprogram\bin\Debug\switchprogram.exe.config
+M:\Simplilearn\mphasis\day2\switchprogram\switchprogram\bin\Debug\switchprogram.exe
+M:\Simplilearn\mphasis\day2\switchprogram\switchprogram\bin\Debug\switchprogram.pdb
+M:\Simplilearn\mphasis\day2\switchprogram\switchprogram\obj\Debug\switchprogram.csproj.AssemblyReference.cache
+M:\Simplilearn\mphasis\day2\switchprogram\switchprogram\obj\Debug\switchprogram.csproj.SuggestedBindingRedirects.cache
+M:\Simplilearn\mphasis\day2\switchprogram\switchprogram\obj\Debug\switchprogram.csproj.CoreCompileInputs.cache
+M:\Simplilearn\mphasis\day2\switchprogram\switchprogram\obj\Debug\switchprogram.exe
+M:\Simplilearn\mphasis\day2\switchprogram\switchprogram\obj\Debug\switchprogram.pdb
